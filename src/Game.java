@@ -1,16 +1,4 @@
-
- // Student Name : Hafsa Nafaa
- // This lab was done with my lab partner Raidah Shomanti
- /*
- IMPORTANT: Please note that we have followed the book's directions where it clearly states that
- the game stops after 9 questions, so the 10th question  never gets asked.
- The moodle instruction stating that the game stops after 10 questions is inconsistent with the book.
- Please keep this in mind. Thank you.
- */
-
- // LINK TO VIDEO: https://youtu.be/Q2K0wjEe5tQ
-
- package com.example.caps;
+package com.example.caps;
 import java.util.List;
 import java.util.Map;
 
